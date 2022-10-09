@@ -17,3 +17,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
     -   Once docker-compose finishes loading up, the backend should be running and able to connect to the database.
     -   Test if it works pointing your browser to https://obelusfamily-anythink-market-iwcyu-7qg4r6rgpg2xj9r-3000.githubpreview.dev/api/ping
     -   The backend should be up and running.
+
+### Steps:
+    -   Run *docker-compose* up in your terminal to load Anythink's backend and frontend.
+    -   Once docker-compose finishes loading up, the backend should be running and able to connect to the database.
+    -   Test if it works pointing your browser to https://obelusfamily-anythink-market-iwcyu-7qg4r6rgpg2xj9r-3000.githubpreview.dev/api/ping
+    -   The backend should be up and running.
